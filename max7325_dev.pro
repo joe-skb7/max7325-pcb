@@ -1,4 +1,4 @@
-update=Fri 06 Apr 2018 02:46:54 PM EEST
+update=Fri 06 Apr 2018 03:15:46 PM EEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,4 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
+LibName33=maxim
