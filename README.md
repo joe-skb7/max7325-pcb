@@ -5,6 +5,8 @@ this project is to test MAX732x driver in Linux kernel (e.g. using BeagleBone
 Black board). This is basically just a breakout board, no automation
 capabilities or any fancy features added.
 
+KiCad v5.0.1 was used for this project.
+
 ## Photo
 
 3D Model, Front View:
